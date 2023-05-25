@@ -6,6 +6,8 @@ KioWare for Windows through version 8.33 has an incomplete blacklist filter for 
 ## Additional Information
 This issue was discovered during KalmarCTF-2023 during the challenge "XScapy" where the goal was to discover CVE-2022-44875. During testing with default installation configuration options, I discovered this flaw.
 
+[![File Dialog](./image1.png)]
+
 ## Vulnerability Type
 Sandbox escape / Incorrect Access Controls
 
