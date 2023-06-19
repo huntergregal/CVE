@@ -1,4 +1,4 @@
-# TBD-KIOWARE-001
+# TBD-KIOWARE-002
 
 ## Description
 KioWare for Windows through version 8.33 has an incomplete blacklist filter for blocked dialog boxes on Windows 10. This allows one to open a file dialog box via the javascript function "showDirectoryPicker()" in the KioWare browser. The resulting file dialog can then be used to open an unprivileged command prompt.
